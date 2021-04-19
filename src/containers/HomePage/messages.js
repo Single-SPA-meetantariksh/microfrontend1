@@ -10,6 +10,6 @@ export const scope = 'app.containers.HomePage';
 export default defineMessages({
     header: {
         id: `${scope}.header`,
-        defaultMessage: 'Yayyyyyyy!!!! I have rendered',
+        defaultMessage: 'Yayyyyyyy!!!! I have rendered.. Application 1',
     },
 });
