@@ -7,8 +7,8 @@ const CompressionPlugin = require('compression-webpack-plugin');
 
 module.exports = (webpackConfigEnv, argv) => {
     const defaultConfig = singleSpaDefaults({
-        orgName: 'single-spa-meetantariksh',
-        projectName: 'microfrontend-1',
+        orgName: 'antariksh-roy',
+        projectName: '101-application-landing',
         webpackConfigEnv,
         argv,
     });
